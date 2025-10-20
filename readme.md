@@ -44,8 +44,8 @@ E. Classes CSS Utilisées
 .B1, .B2, .C1 : Cartes de témoignages
 .colton : Informations utilisateur (nom et statut)
 .buyer : Badge "Verified Buyer"
-.P1 : Paragraphes de témoignages
+.paragraphe : Paragraphes de témoignages
 
-![](Capture1.png)
-![](Capture2.png)
+![](./image/Capture1.png)
+![](./image/Capture2.png)
 
